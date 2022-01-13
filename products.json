@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Shoulder Bags",
+        "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical ",
+        "price": "130",
+        "img": "carousel3.png"
+    },
+    {
+        "id": 2,
+        "title": "Shoulder Bags",
+        "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical ",
+        "price": 230,
+        "img": "carousel2.png"
+    },
+    {
+        "id": 3,
+        "title": "Shoulder Bags",
+        "description": "Shoulder Bag Leather Bag Leather undertakes laborious physical physical ",
+        "price": 400,
+        "img": "carousel3.png"
+    }
+]
